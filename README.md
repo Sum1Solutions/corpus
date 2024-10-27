@@ -1,5 +1,7 @@
 # Simulation Adjuster App
 
+FIRST OFF - This is totally not working yet...
+
 This is a web-based interactive application that allows users to adjust key variables in a simulation and visualize the results in real-time. The app is built using **Dash**, a Python framework for building web applications, and includes a dynamic UI where users can control parameters such as the number of individuals, timesteps, theory understanding, and application.
 
 ## Background Concept
